@@ -1,0 +1,1 @@
+We used Ashaar Dataset, here is the dataset link on Huggingface (https://huggingface.co/datasets/arbml/ashaar)
